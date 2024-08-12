@@ -1,0 +1,2 @@
+- forms.py에서 form class 설정 시 fields에서 특정 값만 폼을 만들 때에는 반드시 튜플에 , 컴마가 포함되어야 한다.
+- 다중참조 시 related_name 설정으로 변수 (#comment_set)의 충돌을 피할 수 있다.
